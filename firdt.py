@@ -1,0 +1,1 @@
+print("We have successfully installed python for AI")

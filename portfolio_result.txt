@@ -1,0 +1,7 @@
+Stock      Qty     Price       Value
+------------------------------------
+TESLA       10       250        2500
+AMAZON       4       130         520
+MICROSOFT     4       330        1320
+------------------------------------
+Total investment value: $  4,340.00
